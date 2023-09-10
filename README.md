@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ndukwesamuel/NdukweSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Welcome to my mobile application  It shows my Slack identity and profile photo and with a click of a button you can see my GitHub repo  with the help of  WebView component that smoothly redirects you
