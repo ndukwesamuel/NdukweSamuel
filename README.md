@@ -21,3 +21,4 @@ git clone https://github.com/ndukwesamuel/NdukweSamuel.git
 
 Start the Expo development server:
 expo start
+.
